@@ -18,4 +18,9 @@ Já pensou em trocar uma letra de uma palavra e ver qual palavra se forma? Ou cr
 - JavaScript 
 - Figma
 
-<hr>
+
+### Clone 
+
+```bash
+  https://github.com/Tulipaox/Decodificador-Texto.git
+````
